@@ -18,13 +18,13 @@
 
 1. `cd client`
 
-1. `npm start`
+1. `npm install && npm start`
 
 ### Start Server
 
 1. `cd server`
 
-1. `npm start`
+1. `npm install && npm start`
 
 ### Run Server Tests
 
